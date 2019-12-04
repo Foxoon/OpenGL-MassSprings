@@ -1,14 +1,1 @@
-﻿  main.cpp
-  myCamera.cpp
-  myMassSpring.cpp
-  myParticle.cpp
-  myShader.cpp
-  mySphere.cpp
-  mySpring.cpp
-c:\0-work\opengl\projects\opengl-masssprings\myproj\myspring.cpp(32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
-          with
-          [
-              T=float
-          ]
-  Generating Code...
-LINK : fatal error LNK1104: cannot open file 'freeglutd.lib'
+﻿LINK : fatal error LNK1104: cannot open file 'freeglutd.lib'
